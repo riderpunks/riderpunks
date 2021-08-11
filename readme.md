@@ -1,12 +1,6 @@
-o--o       o         o--o            o        
-|   | o    |         |   |           | /      
-O-Oo     o-O o-o o-o O--o  o  o o-o  OO   o-o 
-|  \  | |  | |-' |   |     |  | |  | | \   \  
-o   o |  o-o o-o o   o     o--o o  o o  o o-o 
+RiderPunks
 
 Discover the millionaire punks play the undercover riders ...
-
-
 
 RiderPunks are a collection of only 100 Punks.
 
