@@ -7,8 +7,12 @@ RiderPunks are a collection of only 100 Punks.
 
 This is an inclusive collection and all RiderPunks are priced at 0.3 ETH in the primary market to make it accessible for all to collect!
 
+Mint Address:
+https://opensea.io/RiderPunks
+0xe54E3e3615671878c90914044412592A93423dE1
 
-Mint Address: 0xe54E3e3615671878c90914044412592A93423dE1
+Collection:
+https://opensea.io/collection/riderpunks
 
 
 ❤️ Rare RiderPunks Alien 1 Ape 2 Zombie 3
