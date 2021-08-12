@@ -19,4 +19,5 @@ https://opensea.io/collection/riderpunks
 
 🖤 Common RiderPunks Black 7 Blue 10 Brown 9 Green 11 Grey 5 LightBlue 4 Orange 7 Pink 6 Purple 8 Red 11 White 10 Yellow 6
 
-Delivery/RiderPunks 💙 0/5 💙 1/6 💙 2/10 💙3/10 💙 4/11 💙 5/11 💙 6/11 💙 7/10 💙 8/9 💙 9/5 💙 10/2💙
+Delivery/RiderPunks 💙 0/5 💙 1/6 💙 2/11 💙 3/12 💙 4/12 💙 5/12 💙 6/12 💙 7/11 💙 8/9 💙 9/7 💙 10/3 💙
+
