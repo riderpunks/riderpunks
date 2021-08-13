@@ -3,7 +3,7 @@ RiderPunks
 
 Discover the millionaire punks play the undercover riders ...
 
-RiderPunks are a collection of only 100 Punks.
+RiderPunks are a collection of only 100 Punks (38 burned).
 
 This is an inclusive collection and all RiderPunks are priced at 0.3 ETH in the primary market to make it accessible for all to collect!
 
